@@ -1,0 +1,107 @@
+[
+    {
+        "codigo": "AT001",
+        "alertante": "Carlos Mendoza Ruiz",
+        "motivo": "Escándalo",
+        "fecha_hora": "05/09/2026 - 08:15:20",
+        "lugar": "Barrio Los Almendros"
+    },
+    {
+        "codigo": "AT002",
+        "alertante": "María Fernanda López",
+        "motivo": "Agresiones a personas",
+        "fecha_hora": "05/09/2026 - 09:40:12",
+        "lugar": "Avenida Principal"
+    },
+    {
+        "codigo": "AT003",
+        "alertante": "Jorge Andrés Castillo",
+        "motivo": "Daño a propiedad pública o privada",
+        "fecha_hora": "05/09/2026 - 10:25:45",
+        "lugar": "Sector El Mirador"
+    },
+    {
+        "codigo": "AT004",
+        "alertante": "Ana Patricia Torres",
+        "motivo": "Presencia policial",
+        "fecha_hora": "05/09/2026 - 11:10:30",
+        "lugar": "Parque Central"
+    },
+    {
+        "codigo": "AT005",
+        "alertante": "Luis Alberto Zambrano",
+        "motivo": "Persona armada",
+        "fecha_hora": "05/09/2026 - 12:05:18",
+        "lugar": "Calle Los Ceibos"
+    },
+    {
+        "codigo": "AT006",
+        "alertante": "Daniela Sofía Vera",
+        "motivo": "Maltrato a animales",
+        "fecha_hora": "05/09/2026 - 13:30:42",
+        "lugar": "Urbanización Las Palmas"
+    },
+    {
+        "codigo": "AT007",
+        "alertante": "Miguel Ángel Paredes",
+        "motivo": "Falso funcionario",
+        "fecha_hora": "05/09/2026 - 14:20:10",
+        "lugar": "Mercado Municipal"
+    },
+    {
+        "codigo": "AT008",
+        "alertante": "Sofía Valentina Cruz",
+        "motivo": "Fraude a persona",
+        "fecha_hora": "05/09/2026 - 15:45:27",
+        "lugar": "Sector Las Flores"
+    },
+    {
+        "codigo": "AT009",
+        "alertante": "Roberto Javier Molina",
+        "motivo": "Desaparición de persona",
+        "fecha_hora": "05/09/2026 - 16:15:55",
+        "lugar": "Barrio San José"
+    },
+    {
+        "codigo": "AT010",
+        "alertante": "Gabriela Isabel Cedeño",
+        "motivo": "Desalojos",
+        "fecha_hora": "05/09/2026 - 17:05:33",
+        "lugar": "Calle 10 de Agosto"
+    },
+    {
+        "codigo": "AT011",
+        "alertante": "Fernando Esteban Reyes",
+        "motivo": "Eventos ilegales",
+        "fecha_hora": "05/09/2026 - 18:20:14",
+        "lugar": "Sector La Esperanza"
+    },
+    {
+        "codigo": "AT012",
+        "alertante": "Valeria Nicole Ortiz",
+        "motivo": "Amenaza de bomba",
+        "fecha_hora": "05/09/2026 - 19:10:05",
+        "lugar": "Zona Comercial"
+    },
+    {
+        "codigo": "AT013",
+        "alertante": "Pedro Xavier Andrade",
+        "motivo": "Boleta / orden de autoridad",
+        "fecha_hora": "05/09/2026 - 20:35:41",
+        "lugar": "Sector Los Laureles"
+    },
+    {
+        "codigo": "AT014",
+        "alertante": "Camila Alejandra Ruiz",
+        "motivo": "Actos inmorales",
+        "fecha_hora": "05/09/2026 - 21:15:29",
+        "lugar": "Parque La Unión"
+    },
+    {
+        "codigo": "AT015",
+        "alertante": "José Miguel Herrera",
+        "motivo": "Apoyo aduana",
+        "fecha_hora": "05/09/2026 - 22:05:16",
+        "lugar": "Sector Industrial"
+    }
+]
